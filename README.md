@@ -42,7 +42,9 @@
   <pre><code>npm start</code></pre>
 
   <h2>🎉 Profite de l'application !</h2>
-   
+   <p align="center">
+  <img src="./image_2025-05-01_213636544.png" alt="Aperçu de l’interface" width="600"/>
+</p>
 </body>
 </html>
 
