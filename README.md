@@ -22,7 +22,7 @@
 
   <h2>🚀 Installation</h2>
   <p><strong>1. Cloner le dépôt :</strong></p>
-  <pre><code>git clone https://github.com/ton-utilisateur/one-rente.git
+  <pre><code>git clone https://github.com/wassimos69/location-de-voiture-.git
   </code></pre>
 
   <p><strong>2. Installer les dépendances :</strong></p>
@@ -41,7 +41,9 @@
   <h2>🌐 Lancer l'application React</h2>
   <pre><code>npm start</code></pre>
 
-  <h2>🎉 Profite de l'application One-Rente !</h2>
-
+  <h2>🎉 Profite de l'application !</h2>
+   
 </body>
 </html>
+
+
